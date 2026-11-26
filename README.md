@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://devbhati232008-rgb.github.io/DeveloperPortfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-devbhati232008-rgb-black?logo=github)](https://github.com/devbhati232008-rgb)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ashish-vats-b1ab3224b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/devendra-bhati-464a13425)
 
 ---
 
