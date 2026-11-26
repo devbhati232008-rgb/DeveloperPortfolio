@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "===== SYSTEM INFORMATION ====="
-echo "Student Roll Number: 2601730008"
+echo "Student Roll Number: 2601730334"
 echo
 
 echo "Hostname:"
