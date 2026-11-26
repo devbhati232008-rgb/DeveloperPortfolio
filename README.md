@@ -2,16 +2,16 @@
 
 ### Beginner Developer Ecosystem Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://ralcoralson.github.io/DeveloperPortfolioFinal/)
-[![GitHub](https://img.shields.io/badge/GitHub-ralcoralson-black?logo=github)](https://github.com/ralcoralson)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://devbhati232008-rgb.github.io/DeveloperPortfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-devbhati232008-rgb-black?logo=github)](https://github.com/devbhati232008-rgb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ashish-vats-b1ab3224b/)
 
 ---
 
 ## 👨‍💻 About Me
 
-**Name:** Ashish Vats  
-**Roll Number:** 2601730008  
+**Name:** DEvendra
+**Roll Number:** 2601730334 
 **Course:** B.Tech Computer Science Engineering  
 **University:** K.R. Mangalam University
 
@@ -29,10 +29,10 @@ The project demonstrates my hands-on experience with development tools, automati
 
 **Visit my website:**
 
-[https://ralcoralson.github.io/DeveloperPortfolioFinal/](https://ralcoralson.github.io/DeveloperPortfolioFinal/)
+[https://devbhati232008-rgb.github.io/DeveloperPortfolioFinal/](https://devbhati232008-rgb.github.io/DeveloperPortfolioFinal/)
 ## 📄 My Resume
 
-[Download My Resume (PDF)](Portfolio/Ashish_Vats_Resume.pdf)
+[Download My Resume (PDF)](Portfolio/devbhati232008-rgbResume.pdf)
 ## 🚀 My Projects & Work
 
 ### 1. VOID – Local AI Assistant
@@ -48,18 +48,6 @@ A Python-based local AI assistant designed to support AI conversations through O
 
 🔗 [View Repository – VOID](https://github.com/ralcoralson/void)
 
-### 2. SkipIt Experiment – Web Development
-
-An experimental web development project exploring interactive interfaces and web application functionality.
-
-- Dashboard interface
-- Marketplace components
-- Authentication-related features
-- UI and frontend experimentation
-
-**Technologies:** HTML, CSS, JavaScript, Python
-
-🔗 [View Repository – SkipIt Experiment](https://github.com/ralcoralson/skipit-experiment)
 
 ### 3. DeveloperPortfolioFinal – Personal Portfolio
 
@@ -72,9 +60,9 @@ A personal developer portfolio showcasing my academic work, technical skills, Li
 
 **Technologies:** Linux, Bash, Git, GitHub, REST API, HTML
 
-🔗 [View Repository](https://github.com/ralcoralson/DeveloperPortfolioFinal)
+🔗 [View Repository](https://github.com/devbhati232008-rgb/DeveloperPortfolio)
 
-🌐 [Live Website](https://ralcoralson.github.io/DeveloperPortfolioFinal/)
+🌐 [Live Website](https://devbhati232008-rgb.github.io/DeveloperPortfolio/)
 
 ---
 
@@ -134,17 +122,9 @@ DeveloperPortfolioFinal/
 
 Screenshots and project demonstrations are organized in the `Screenshots/` directory.
 
-## 🔗 Connect With Me
-
-- **GitHub:** [ralcoralson](https://github.com/ralcoralson)
-- **LinkedIn:** [Ashish Vats](https://www.linkedin.com/in/ashish-vats-b1ab3224b/)
-- **Portfolio:** [DeveloperPortfolioFinal](https://ralcoralson.github.io/DeveloperPortfolioFinal/)
-
----
-
 ## 👨‍🎓 Author
 
-**Ashish Vats**
+**Devendra**
 
 B.Tech Computer Science Engineering  
 K.R. Mangalam University
