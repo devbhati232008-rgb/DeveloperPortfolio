@@ -1,6 +1,5 @@
 # Six-Semester Technical Learning Roadmap
 
-**Student:** Ashish Vats  
 **University:** K.R. Mangalam University  
 **Programme:** B.Tech CSE (AI & ML)  
 **Batch:** 2026–2030  
