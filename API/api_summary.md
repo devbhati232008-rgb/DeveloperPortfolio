@@ -1,7 +1,7 @@
 API Documentation
 GitHub API
 Endpoint
-https://api.github.com/users/ralcoralson
+https://api.github.com/users/devbhati232008-rgb
 
 Purpose
 Returns public profile information of a GitHub user.
