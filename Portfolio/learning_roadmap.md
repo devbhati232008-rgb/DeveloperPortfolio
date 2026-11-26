@@ -4,7 +4,7 @@
 
 | Detail | Information |
 |---|---|
-| Student | Vikansh Chaudhary |
+| Student | Devendra |
 | Programme | B.Tech CSE (AI & ML) |
 | Batch | 2026–2030 |
 | Specialisation | Data Science & AI / Machine Learning |
@@ -39,18 +39,6 @@
 | 6 | ML Deployment, Advanced Projects, Interview Preparation | AI/ML Capstone Project |
 
 *Semesters 3–6 include planned learning areas that should be verified against the official university curriculum.*
-
-## 3. Personal Project — Mochi Robot
-
-Develop an interactive mini robot using **ESP32-C3**.
-
-**Planned Features:**
-- OLED animated facial expressions.
-- Moving hands and touch interactions.
-- Sound and expression synchronisation.
-- Future AI-powered interaction.
-
-**Learning Outcomes:** Embedded programming, electronics, AI concepts and robotics.
 
 ## 4. Monthly Targets — December 2026
 
