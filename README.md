@@ -29,7 +29,7 @@ The project demonstrates my hands-on experience with development tools, automati
 
 **Visit my website:**
 
-[https://devbhati232008-rgb.github.io/DeveloperPortfolioFinal/](https://devbhati232008-rgb.github.io/DeveloperPortfolioFinal/)
+[https://devbhati232008-rgb.github.io/DeveloperPortfolioFinal/](https://devbhati232008-rgb.github.io/DeveloperPortfolio/)
 ## 📄 My Resume
 
 [Download My Resume (PDF)](Portfolio/devbhati232008-rgbResume.pdf)
